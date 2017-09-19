@@ -14,6 +14,7 @@ public class HelloGit {
 			System.out.println("i:" + i);
 		}
 		// salkjdlskjflksdjklsllk
+		// this code is edited in the github web site. 
 		
 		// I added the following part.
 		System.out.println("This is a confliction test.");
