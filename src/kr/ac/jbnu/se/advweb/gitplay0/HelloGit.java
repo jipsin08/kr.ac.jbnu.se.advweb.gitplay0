@@ -16,6 +16,8 @@ public class HelloGit {
 		// salkjdlskjflksdjklsllk
 		// this code is edited in the github web site. 
 		
+		// this code is added in the eclipse.
+		
 		// I added the following part.
 		System.out.println("This is a confliction test.");
 	}
